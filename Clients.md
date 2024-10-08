@@ -41,5 +41,5 @@ For each client, we'd like to know:
 | [[Last.fm player]]                         | ass         | N/A                               | Yes                | No         |
 | [[mpdscribble]]  | mdc         | @MaxKellermann                    | Yes                | No         |
 | [[multi-scrobbler]]          | N/A         | @FoxxMD                           | No                 | No         |
-| [[Pano Scrobbler]]       | pns         | @kawaiiDango                      | No                 | Yes        |
+| [[Pano Scrobbler]]       | pns         | @kawaiiDango                      | No                 | No        |
 | [[Web Scrobbler]]                            | N/A         | @web-scrobbler-dev                | No                 | Yes        |
